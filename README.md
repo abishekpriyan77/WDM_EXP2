@@ -44,6 +44,14 @@ G40,high,yes,excellent,yes
 ### OUTPUT:
 
 
+
+
+
+
+
+<img width="561" height="759" alt="581926896-7ace0d5d-b60f-4e55-8f89-f2c52831c7ed" src="https://github.com/user-attachments/assets/b085e37d-c1c0-4243-8693-38527e49cac5" />
+
+
 ### Procedure for Association Rules:
 1) Open Start -> Programs -> Accessories -> Notepad
 2) Open explorer.
@@ -54,4 +62,20 @@ G40,high,yes,excellent,yes
 
 ### OUTPUT:
 
+
+
+
+
+
+
+
+
+
+
+
+
+<img width="1919" height="1021" alt="581926375-c6a67345-ed63-4bce-9523-2a2f2c59e899" src="https://github.com/user-attachments/assets/8c853c4b-aa57-4c48-be77-5ae61432eb16" />
+
+
 ### RESULT: 
+Thus the program for generating transaction datasets has been developed, and preprocessing has been accomplished successfully.
